@@ -1,6 +1,6 @@
 {
   "name": "teams-mcp",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "MCP server providing comprehensive Microsoft Teams and Graph API access for AI assistants including messaging, search, and user management.",
   "main": "src/index.ts",
   "scripts": {
